@@ -1,4 +1,4 @@
-# EcoLoop — PCCOE IGC 2026 Final UI
+# EcoLoop — PCCOE IGC 2026 
 
 Full-stack industrial circular economy demo with two role-based portals.
 
